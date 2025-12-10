@@ -1,2 +1,2 @@
-# QuickSort
+# QuickSort2
 berisi program
